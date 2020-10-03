@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=7509eb6805c3b057:T=1601467244:S=ALNI_MYuky7dXv89ZmCo-3vPmfiX_A27Bw","_expires_":1635163244,"_path_":"/","_domain_":"wakanda.ng"}]});
